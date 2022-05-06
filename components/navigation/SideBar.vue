@@ -134,7 +134,7 @@
         <a
           target="blank_"
           class="hover:bg-gracy-700 self-center"
-          href="https://github.com/BibliothecaForAdventurers/main-site"
+          href="https://github.com/BibliothecaForAdventurers/site"
         ><Github
           class="w-8 h-8"
         /></a>
